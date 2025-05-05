@@ -1,0 +1,1 @@
+# programming-paradigms-lab-3-higher-order-functions-and-lists-in-racket-solved
